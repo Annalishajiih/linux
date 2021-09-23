@@ -1,6 +1,6 @@
 {
-    "name": "mintliu",
-    "description": "mintliu",
+    "name": "linux",
+    "description": "linux",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
@@ -32,6 +32,6 @@
             "value": "https://raw.githubusercontent.com/ufyurer/heromoer/main/etc/StoreFiles"
         }
     },
-    "repository": "https://github.com/Annalishajiih/mintliu",
+    "repository": "https://github.com/Annalishajiih/linux",
     "stack": "container"
 }
